@@ -1,0 +1,2 @@
+Max altura : 4 blocos de 16;
+Max espaço entr plataformar : 11 blocos de 16;
